@@ -15,7 +15,6 @@ npm run dev
 npm run build
 
 # 部署线上
-# .output 文件夹放置到服务器
 
 npm run start
 ```
