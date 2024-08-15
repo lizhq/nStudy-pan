@@ -1,4 +1,5 @@
-export const badWords = [
+export const badWords = []
+const badWords_ = [
     "妓女",
     "包夜",
     "3P",
