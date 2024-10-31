@@ -21,6 +21,10 @@ export default defineNuxtConfig({
                 {
                     name: 'referrer',
                     content: 'strict-origin-when-cross-origin'
+                },
+                {
+                    name: 'google-site-verification',
+                    content: 'm895DTY9DBBSWnuhCCp3YW1ULvjQpH2v4CGbHWVj3XI'
                 }
             ],
             link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
